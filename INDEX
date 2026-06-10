@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autolavaggio Facciorusso</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0056b3;
+            margin-bottom: 5px;
+        }
+        h2 {
+            color: #666;
+            font-size: 1.2rem;
+            margin-bottom: 25px;
+        }
+        .box {
+            background: #eef2f7;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        .box h3 {
+            margin-top: 0;
+            color: #0056b3;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .btn {
+            display: block;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            color: white;
+            font-size: 1.1rem;
+        }
+        .btn-wp {
+            background-color: #25D366;
+        }
+        .btn-google {
+            background-color: #ea4335;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>AUTOLAVAGGIO FACCIORUSSO</h1>
+        <h2>Service Car — Wash & Tyres</h2>
+
+        <div class="box">
+            <h3>🧽 Servizi Autolavaggio</h3>
+            <ul>
+                <li>Lavaggio interni ed esterni completo</li>
+                <li>Sanificazione abitacolo avanzata</li>
+                <li>Trattamento plastiche e sedili</li>
+            </ul>
+            <a href="https://wa.me/393687889679?text=Ciao%20Autolavaggio%20Facciorusso,%20vorrei%20prenotare%20un%20lavaggio." target="_blank" class="btn btn-wp">
+                🟢 Prenota Lavaggio su WhatsApp
+            </a>
+        </div>
+
+        <div class="box">
+            <h3>🛞 Servizio Pneumatici</h3>
+            <ul>
+                <li>Vendita e sostituzione gomme</li>
+                <li>Equilibratura e convergenza</li>
+                <li>Controllo pressione gratuito</li>
+            </ul>
+            <a href="https://wa.me/393687889679?text=Ciao%20Autolavaggio%20Facciorusso,%20vorrei%20prenotare%20un%20servizio%20gomme." target="_blank" class="btn btn-wp">
+                🟢 Prenota Cambio Gomme su WhatsApp
+            </a>
+        </div>
+
+        <div class="box">
+            <h3>⭐ La tua opinione conta</h3>
+            <p>Sei già nostro cliente? Lasciaci una recensione veloce su Google cliccando qui sotto!</p>
+            <a href="https://share.google/3UsOy3KofUqfwWklu" target="_blank" class="btn btn-google">
+                🔴 Lascia una Recensione su Google
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
